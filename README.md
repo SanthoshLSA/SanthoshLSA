@@ -31,13 +31,11 @@
 </p>
 
 ### 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/satyap]([https://leetcode.com/u/SanthoshLegendSA/](https://www.linkedin.com/in/santhosh-a-155481359/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhosh.ananth6@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:santhosh23110352@snuchennai.edu.in) [![LeetCode](https://img.shields.io/badge/LeetCode-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/satyap/](https://leetcode.com/u/SanthoshLegendSA/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-a-155481359/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhosh.ananth6@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:santhosh23110352@snuchennai.edu.in) [![LeetCode](https://img.shields.io/badge/LeetCode-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/satyap/](https://leetcode.com/u/SanthoshLegendSA/)
 
 ### ✨ Featured Projects
 - [E-commerce Website](https://github.com/SanthoshLSA/ecommerce-fullstack-mern) - Full-stack shopping app  
 - [CS Interview Chatbot](https://github.com/SanthoshLSA/cs-ai-chatbot) - Hugging Face powered study aid  
 - [Movie Recommendation System](https://github.com/SanthoshLSA/movie-recommendation-system) - Streamlit + scikit-learn  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername)](https://github.com/SanthoshLSA)
 
 </div>
