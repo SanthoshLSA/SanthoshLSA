@@ -12,7 +12,7 @@
 
 **Frameworks & Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,streamlit,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,streamlit,tailwind" />
 </p>
 
 **Databases**  
@@ -27,8 +27,9 @@
 
 **Dev Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
 </p>
+
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-a-155481359/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhosh.ananth6@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:santhosh23110352@snuchennai.edu.in) [![LeetCode](https://img.shields.io/badge/LeetCode-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SanthoshLegendSA/)
