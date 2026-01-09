@@ -9,10 +9,9 @@
 
 **Languages**  
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-
 **Frameworks & Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,streamlit,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
 
 **Databases**  
@@ -22,7 +21,7 @@
 
 **AI/ML**  
 <p>
-  <img src="https://skillicons.dev/icons?i=huggingface,pytorch,scikit-learn,pandas" />
+  <img src="https://skillicons.dev/icons?i=huggingface,python" />
 </p>
 
 **Dev Tools**  
