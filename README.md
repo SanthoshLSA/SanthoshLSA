@@ -164,22 +164,6 @@ Contributing to full-stack platform development and backend infrastructure suppo
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **HCL GUVI Coding Contest** | All India Rank 9 (AIR 9) out of 5000+ participants |
-| **Competitive Programming** | 500+ algorithmic problems solved across LeetCode, HackerRank, Codeforces |
-| **Affective Computing — NPTEL** | Gold+Elite National Certification, 90% final score |
-| **Responsible & Safe AI Systems — NPTEL** | Top 1% Nationwide, elite score of 90% |
-| **Full Stack Web Development — Udemy** | Specialized in PERN Stack methodologies |
-
-</div>
-
----
-
 ## Coding Profiles
 
 <div align="center">
@@ -194,10 +178,10 @@ Contributing to full-stack platform development and backend infrastructure suppo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanthoshLSA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=SanthoshLSA&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SanthoshLSA&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true&rank_icon=github&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=SanthoshLSA&theme=dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshLSA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshLSA&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="49%"/>
 
 </div>
 
@@ -207,7 +191,7 @@ Contributing to full-stack platform development and backend infrastructure suppo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanthoshLSA&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SanthoshLSA&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
