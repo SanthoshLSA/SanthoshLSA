@@ -146,12 +146,12 @@ Engineered a chatbot that answers CS fundamentals MCQs, featuring an evaluation 
 **Inditech Health Solutions** · Mumbai (Remote)
 `Feb 2026 -- Present`
 
-Contributing to full-stack platform development and backend infrastructure supporting thousands of medical professionals across production web platforms.
+Building and maintaining full-stack healthcare platforms and backend infrastructure supporting over **5,000 medical professionals** across multiple production web platforms.
 
-- Contributed to and now own the maintenance, feature production, and system updates of **3 production web platforms** built on **WordPress** and **PHP**
-- Engineered and deployed scalable internal API communication pipelines and data tracking architecture using **Django** and **Python** for high-throughput webinar onboarding workflows
+- Built and now lead the maintenance and feature development of **3 production web platforms** built with **WordPress** and **PHP**, serving over **5,000 medical professionals**
+- Engineered custom **REST API** endpoints and **AJAX**-driven workflows for certificate generation, webinar attendance tracking, and registration validation, automating onboarding for over **1,000 medical professionals** and eliminating manual registration handling
 - Integrated **AWS S3** object storage pipelines for secure hosting, automated retrieval, and scaling of feedback systems and dynamic application components
-- Implemented robust Git branching structures and project code isolation protocols to optimize cross-functional technical deliveries in a fast-paced agile cycle
+- Maintained a structured **Git** workflow synchronized via automated **SFTP** deployment to staging, enabling reliable code reviews, targeted deployments, and safe feature rollouts across a production WordPress theme powering **3 live platforms**
 
 `WordPress` `PHP` `Django` `Python` `AWS S3` `Git` `RESTful APIs`
 
